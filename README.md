@@ -1,3 +1,3 @@
 # Zuri Git Tasks
 
-## Week 3 Tasks
+## Week 3 Tasks.
